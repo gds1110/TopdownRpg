@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ead4401cba7717a46869c0e8ffcc7bc1, type: 3}
+  m_Name: NormalAttack
+  m_EditorClassIdentifier: 
+  spellName: NormalAttack
+  displayName: "\uC77C\uBC18\uACF5\uACA9"
+  type: 1
+  inputType: 1
+  distance: 1
+  cooldownTime: 1
+  activateTime: 0
+  damge: 5
+  castingTime: 0
+  cost: 0
+  effect: {fileID: 0}
+  spellTexture: {fileID: 0}
